@@ -72,10 +72,13 @@ a{
 h2{
     border-bottom: 2px solid transparent;
     transition: 1%;
+    color: rgb(229, 255, 168);
+
 }
 
 h2:hover{
     border-color: blue;
+    
 }
 .contact{
 
@@ -103,9 +106,5 @@ h3{
 img{
     width: 500px;
     border-radius: 50px;
-    display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-gap: 2em;
+    
 }
