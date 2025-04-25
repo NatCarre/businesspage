@@ -13,14 +13,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(https://i.pinimg.com/736x/fa/8d/e7/fa8de73286b6ce136082c9474122c0f5.jpg);
+  background-image: url(https://i.pinimg.com/736x/af/d3/71/afd371af27f82f7901cb50b3d06e2592.jpg);
   border: 6px solid rgba(255, 255, 255, 0.445);
 }
 
 .page {
   width: 100%;
   margin-top: 5%;
-  background-image: url(https://i.pinimg.com/736x/6b/39/a7/6b39a7726055e701dadb530f6a376bdd.jpg);
+  background-image: url(https://i.pinimg.com/736x/74/da/49/74da49c5ba3a0f9c8989aa81b80151c6.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
