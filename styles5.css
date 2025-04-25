@@ -1,0 +1,49 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 375px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://i.pinimg.com/736x/50/d5/2c/50d52c5a6b788d6ea8e4b53a605775a7.jpg);
+  background-size: cover;
+}
+
+.fanart {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2%;
+}
+
+.drawings {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 300px;
+  border-radius: 50px;
+  height: 350px;
+  padding: 2%;
+  background-color: rgb(255, 255, 255);
+  object-position: top;
+  box-shadow: 0 0 60px rgb(255, 194, 80);
+  margin: 1% 0;
+}
+
+a {
+  font-size: 20pt;
+}
